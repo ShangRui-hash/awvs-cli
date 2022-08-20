@@ -1,4 +1,8 @@
-
+## Download
+```
+ go install github.com/ShangRui-hash/awvs-cli@latest
+```
+## Usage
 ```
 export AWVS_SERVER="https://127.0.0.1:13443"
 export AWVS_API_KEY="your-api-key"
